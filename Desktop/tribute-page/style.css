@@ -1,0 +1,28 @@
+body {
+  font-family: monospace;
+}
+.main-content {
+  background-color: #eee;
+  color: #555;
+  border-radius: 4px;
+}
+.header {
+  padding: 50px;
+}
+.img-section{
+  padding-left: 50px;
+  padding-bottom: 40px;
+}
+.discography-section{
+  font-size: 20px;
+  padding-left: 150px;
+  padding-top:50px;
+}
+
+.discography-text {
+  font-size: 30px;
+}
+
+.footer {
+  padding-top: 30px;
+}
