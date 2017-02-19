@@ -5,4 +5,5 @@ freeCodeCamp project/assignments
 #### 2) Generate Random Whole Numbers within a Range -> http://codepen.io/Lihkinrian/pen/BpeKzo
 #### 3) Factorialize a Number -> http://codepen.io/Lihkinrian/pen/pRmyyP
 #### 4) Palindrome -> http://codepen.io/Lihkinrian/pen/PWvNXb
-#### 4) find Longest Word -> http://codepen.io/Lihkinrian/pen/jyormv
+#### 5) find Longest Word -> http://codepen.io/Lihkinrian/pen/jyormv
+#### 6) Caesars Cipher -> http://codepen.io/Lihkinrian/pen/bgPpQB?editors=0010
