@@ -8,3 +8,4 @@ freeCodeCamp project/assignments
 #### 5) find Longest Word -> http://codepen.io/Lihkinrian/pen/jyormv
 #### 6) Caesars Cipher -> http://codepen.io/Lihkinrian/pen/bgPpQB
 #### 7) Falsy Bouncer
+#### 8) Chunky Monkey -> http://codepen.io/Lihkinrian/pen/wgLQMg
