@@ -7,3 +7,4 @@ freeCodeCamp project/assignments
 #### 4) Palindrome -> http://codepen.io/Lihkinrian/pen/PWvNXb
 #### 5) find Longest Word -> http://codepen.io/Lihkinrian/pen/jyormv
 #### 6) Caesars Cipher -> http://codepen.io/Lihkinrian/pen/bgPpQB
+#### 7) Falsy Bouncer
